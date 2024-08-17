@@ -1,3 +1,3 @@
 for i in range(0,4):
     print("*")
-    print("4")
+    print("this is demo of merge conflicts")
